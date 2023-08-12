@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418961724367",
+    "firebase_url": "https://note-uas-default-rtdb.firebaseio.com",
+    "project_id": "note-uas",
+    "storage_bucket": "note-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418961724367:android:5340ae7e3bc5248932f8ba",
+        "android_client_info": {
+          "package_name": "com.UAS_NOTES_10120182"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418961724367-6k25nnpi0u03epu2lcgkifs8m1e1adlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.UAS_NOTES_10120182",
+            "certificate_hash": "6cc528c6fbd27a2db4e3ccde83b96b98e2a8f9ba"
+          }
+        },
+        {
+          "client_id": "418961724367-nm34jsk6d0fc2ntcaatcjseilrq8os54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKRTbRo1KhiomDTc75c9glMOI8vAAyKM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418961724367-75lemisati8qdejmvfuk8fijna4usibi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

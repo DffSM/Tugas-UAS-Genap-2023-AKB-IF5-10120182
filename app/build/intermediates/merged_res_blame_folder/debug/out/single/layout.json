@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/fragment_info_slide1.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/fragment_info_slide1.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/fragment_note.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/fragment_note.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/activity_register.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/fragment_profile.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/activity_splash.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/activity_login.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/item_note.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/item_note.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/fragment_info_slide2.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/fragment_info_slide2.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/activity_add_note.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/fragment_info.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/fragment_info.xml"
+    },
+    {
+        "merged": "com.UAS_NOTES_10120182.app-mergeDebugResources-52:/layout/activity_edit_note.xml",
+        "source": "com.UAS_NOTES_10120182.app-main-55:/layout/activity_edit_note.xml"
+    }
+]

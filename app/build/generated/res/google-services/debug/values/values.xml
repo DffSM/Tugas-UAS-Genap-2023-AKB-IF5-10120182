@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">418961724367-nm34jsk6d0fc2ntcaatcjseilrq8os54.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://note-uas-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">418961724367</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKRTbRo1KhiomDTc75c9glMOI8vAAyKM8</string>
+    <string name="google_app_id" translatable="false">1:418961724367:android:5340ae7e3bc5248932f8ba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKRTbRo1KhiomDTc75c9glMOI8vAAyKM8</string>
+    <string name="google_storage_bucket" translatable="false">note-uas.appspot.com</string>
+    <string name="project_id" translatable="false">note-uas</string>
+</resources>
