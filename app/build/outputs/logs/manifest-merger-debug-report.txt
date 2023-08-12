@@ -15,6 +15,7 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Daffa\.g
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Daffa\.gradle\caches\transforms-3\3a6964c5c503907075fdeed5d5333b23\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Daffa\.gradle\caches\transforms-3\afa5c925eaf58949bfb62fff8ecca367\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.firebaseui:firebase-ui-database:8.0.0] C:\Users\Daffa\.gradle\caches\transforms-3\b0184c51ef24eea13ea4d6e6f7654cd2\transformed\firebase-ui-database-8.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\6a7f1d4c888981cc01fdcd8c81c16813\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\ac021920a8d06b4fb6afaa83677c0c3e\transformed\firebase-database-20.2.2\AndroidManifest.xml:15:1-37:12
@@ -111,6 +112,8 @@ MERGED from [com.google.android.material:material:1.9.0] C:\Users\Daffa\.gradle\
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\Daffa\.gradle\caches\transforms-3\c80edab9fb6109efc7ad0a1d16da5611\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Daffa\.gradle\caches\transforms-3\5c12e2afbda2767ab484789203dc27a4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Daffa\.gradle\caches\transforms-3\5c12e2afbda2767ab484789203dc27a4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\6a7f1d4c888981cc01fdcd8c81c16813\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:10:5-18:19
@@ -241,6 +244,8 @@ MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Daffa\.gradle\caches\t
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Daffa\.gradle\caches\transforms-3\afa5c925eaf58949bfb62fff8ecca367\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [com.firebaseui:firebase-ui-database:8.0.0] C:\Users\Daffa\.gradle\caches\transforms-3\b0184c51ef24eea13ea4d6e6f7654cd2\transformed\firebase-ui-database-8.0.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.firebaseui:firebase-ui-database:8.0.0] C:\Users\Daffa\.gradle\caches\transforms-3\b0184c51ef24eea13ea4d6e6f7654cd2\transformed\firebase-ui-database-8.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\6a7f1d4c888981cc01fdcd8c81c16813\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:5:5-7:41
@@ -405,6 +410,32 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Daffa\.grad
 MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Daffa\.gradle\caches\transforms-3\121a46b6435e4bd5c31aef8da32cd705\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
 	android:name
 		ADDED from [com.firebaseui:firebase-ui-database:8.0.0] C:\Users\Daffa\.gradle\caches\transforms-3\b0184c51ef24eea13ea4d6e6f7654cd2\transformed\firebase-ui-database-8.0.0\AndroidManifest.xml:9:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\6a7f1d4c888981cc01fdcd8c81c16813\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\6a7f1d4c888981cc01fdcd8c81c16813\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\ac021920a8d06b4fb6afaa83677c0c3e\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\ac021920a8d06b4fb6afaa83677c0c3e\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\e9cefdcc61db00ecaab4c276e7219181\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\e9cefdcc61db00ecaab4c276e7219181\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\20d6550c6dc09feb2cfea63a56832f85\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\20d6550c6dc09feb2cfea63a56832f85\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\20d6550c6dc09feb2cfea63a56832f85\transformed\firebase-common-20.3.3\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\20d6550c6dc09feb2cfea63a56832f85\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\cdce376f3a15d5d7b66dfa759792fec1\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:12:17-116
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\ac021920a8d06b4fb6afaa83677c0c3e\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
@@ -461,24 +492,6 @@ ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\cac
 		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
 ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
-MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\6a7f1d4c888981cc01fdcd8c81c16813\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
-MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\6a7f1d4c888981cc01fdcd8c81c16813\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\ac021920a8d06b4fb6afaa83677c0c3e\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Daffa\.gradle\caches\transforms-3\ac021920a8d06b4fb6afaa83677c0c3e\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\e9cefdcc61db00ecaab4c276e7219181\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\e9cefdcc61db00ecaab4c276e7219181\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\20d6550c6dc09feb2cfea63a56832f85\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\20d6550c6dc09feb2cfea63a56832f85\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:68:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\20d6550c6dc09feb2cfea63a56832f85\transformed\firebase-common-20.3.3\AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Daffa\.gradle\caches\transforms-3\20d6550c6dc09feb2cfea63a56832f85\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:67:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
 ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Daffa\.gradle\caches\transforms-3\7c4f20d468300512db978529f7457423\transformed\firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
 	android:value
